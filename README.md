@@ -1,5 +1,6 @@
-#https://lucas-jensch.de Hi there 👋
+### Hi there 👋
 
+You can find some more informations on my website: https://lucas-jensch.de /br
 This is my current state of progress:
 
 📅 I’m currently working on a Chess-learning Flutter App!
