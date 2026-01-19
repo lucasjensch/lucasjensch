@@ -2,8 +2,8 @@
 
 You can find some more informations on my website: https://lucas-jensch.de 
 
-📅 I’m currently working on a Chess-learning Flutter App!
+📅 I’m currently working on a encrypting software for messages, passwords and overall data security!
 
-📈 I’m currently learning Flutter and React.
+📈 Also diving into the deep caves of modern C++ :). 
 
-📩 How to reach me: mail@lucas-jensch.de 
+📩 How to reach me: lucasjensch@gmail.com 
